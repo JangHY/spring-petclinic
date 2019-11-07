@@ -1,3 +1,7 @@
+#####This is a project for studying spring by using inflearn lecture
+#####origin git: https://github.com/spring-projects/spring-petclinic.git
+#####lecture: https://www.inflearn.com/course/spring_revised_edition/dashboard
+
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 Deploy this sample application to Pivotal Web Services:
 
